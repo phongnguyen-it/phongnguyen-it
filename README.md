@@ -22,13 +22,12 @@
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&labelColor=c79600&style=for-the-badge"/></a> 
   <a href="https://github.com/phongnguyen-it">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/phongnguyen-it?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  
 </p>
 
 
 - 🔭 I’m currently a Full-stack Software Engineer of [PrimeData VN](https://primedata.ai)
 - 🌱 I’m currently staying at home with my family and enjoy coding our Platform
-- 👯 I’m looking to collaborate on Marketing-science based Data Platform
+- 👯 I’m looking to collaborate on a Marketing-science based Data Platform
 - 💬 Ask me about Consultant: Java, NodeJS, NextJS, React JS, ReactNative, JS
 - ⚡ Fun fact: enjoy life with coding is real
 - 📫 How to reach me: phongnguyen.itengineer@gmail.com
@@ -131,8 +130,6 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dom's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=phongnguyen-it&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <p align="center">
@@ -162,8 +159,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<!-- <a href="https://www.nguyenlephong.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/phong-nguyen-0107"><img src="https://img.shields.io/badge/-nguyenlephong-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:phongnguyen.itengineer@gmail.com"><img src="https://img.shields.io/badge/-phongnguyen.itengineer@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenlephong&" alt="nguyenlephong" /></p> -->
