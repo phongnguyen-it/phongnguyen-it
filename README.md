@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nguyen Le Phong</h1>
-<h3 align="center">A Full-stack Software Engineer</h3>
+<h2 align="center">A Full-stack Software Engineer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=phongnguyen-it&color=blueviolet&style=flat">
   <a href="https://wakatime.com/@59b42694-26d5-4035-8d80-267d68314570"><img src="https://wakatime.com/badge/user/59b42694-26d5-4035-8d80-267d68314570.svg" alt="Total time coded since Jul 23 2020" /></a>
